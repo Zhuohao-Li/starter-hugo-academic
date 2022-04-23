@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhuohao (Dawson) Lee
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Junior undergraduate at Shanghai Jiao Tong University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Shanghai Jiao Tong University
+  url: https://www.sjtu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Architecture
+- VLSI
+- Cybersecurity
+- Domain Specific Acceleration
 
 # Education to show in About widget
 education:
@@ -70,8 +71,14 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Zhuohao Dawson. Lee ( 李卓壕 ), a junior year undergraduate student at Shanghai Jiao Tong University(SJTU). Right now I'm pursuing my B.eng degree at Microelectronics and Computer Science. They're both expected to be conferred in summer, 2023. Prior to that, I graduated from Chengdu No.7 High with honor in 2019. I'm also a term exchange program student in Computer Science Engineering Department of The Hong Kong University of Science and Technology(HKUST), 2022 fall. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ 
+
+I work closely with Prof. Dimitrios Skarlatos at CAOS in Carnegie Mellon University(CMU). I also do research with Prof. Calvin Lin at University of Texas at Austin(UT Austin) and Prof. Xuehai Qian at ALCHEM in University of Southern California . I'm advised by Prof. Jingwen Leng at John Hopcroft Computer Science Center at Shanghai Jiao Tong University. I'm also an intern at Alibaba, NVIDIA inc.
+
+ 
+
+I mainly focus on computer architecture, I always try to explore new ways of constructing fancy and novel designs of architecture with high-performance and low-power. I'm working on the topics of the algorithm-software-hardware co-design projects. I always believe that algorithm-software-hardware co-design is the key to enabling next-generation AI technology in practice. I'm also interested in the topics of VLSI design, to build system from chip is amazing. Besides, I'm working on AI accelerating, machine learning system (MLsys), security topics in network.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

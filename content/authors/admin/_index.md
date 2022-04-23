@@ -11,7 +11,7 @@ role: Junior undergraduate at Shanghai Jiao Tong University
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Shanghai Jiao Tong University
-  url: https://www.sjtu.edu/
+  url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

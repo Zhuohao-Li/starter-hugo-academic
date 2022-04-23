@@ -9,7 +9,7 @@ appearance:
   theme_day: cyberpunk
   theme_night: cyberpunk
   font: rose
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -34,7 +34,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -64,9 +64,9 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhuohao (Dawson) Lee
+title: Zhuohao Lee
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,11 +71,11 @@ email: ""
 highlight_name: true
 ---
 
-I'm Zhuohao Dawson. Lee ( 李卓壕 ), a junior year undergraduate student at Shanghai Jiao Tong University(SJTU). Right now I'm pursuing my B.eng degree at Microelectronics and Computer Science. They're both expected to be conferred in summer, 2023. Prior to that, I graduated from Chengdu No.7 High with honor in 2019. I'm also a term exchange program student in Computer Science Engineering Department of The Hong Kong University of Science and Technology(HKUST), 2022 fall. 
+I'm Zhuohao Dawson. Lee ( 李卓壕 ), a junior year undergraduate student at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn). Right now I'm pursuing my B.eng degree at [Microelectronics](https://dmne.sjtu.edu.cn/dmne/) and [Computer Science](https://www.cs.sjtu.edu.cn/). They're both expected to be conferred in summer, 2023. Prior to that, I graduated from [Chengdu No.7 High](http://www.cdqz.net/) with honor in 2019. I'm also a term exchange program student in [Computer Science Engineering Department](https://cse.hkust.edu.hk/) of [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), 2022 fall. 
 
  
 
-I work closely with Prof. Dimitrios Skarlatos at CAOS in Carnegie Mellon University(CMU). I also do research with Prof. Calvin Lin at University of Texas at Austin(UT Austin) and Prof. Xuehai Qian at ALCHEM in University of Southern California . I'm advised by Prof. Jingwen Leng at John Hopcroft Computer Science Center at Shanghai Jiao Tong University. I'm also an intern at Alibaba, NVIDIA inc.
+I work closely with [Prof. Dimitrios Skarlatos](https://www.cs.cmu.edu/~dskarlat/) at [CAOS](https://www.cs.cmu.edu/~caos/) in [Carnegie Mellon University(CMU)](https://www.cmu.edu/). I also do research with [Prof. Calvin Lin](https://www.cs.utexas.edu/people/faculty-researchers/calvin-lin) at [University of Texas at Austin(UT Austin)](https://www.cs.utexas.edu) and [Prof. Xuehai Qian](http://alchem.usc.edu/portal/xuehaiq.html) at [ALCHEM](http://alchem.usc.edu/portal/index.html) in [University of Southern California(USC)](https://www.usc.edu/) . I'm advised by [Prof. Jingwen Leng](https://www.cs.sjtu.edu.cn/~leng-jw/) at [John Hopcroft Computer Science Center](https://jhc.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). I'm also an intern at [Alibaba](https://www.alibaba.com/), [NVIDIA](https://nvidia.com) inc.
 
  
 

@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk
-  theme_night: cyberpunk
+  theme_day: minimal
+  theme_night: minimal
   font: rose
   font_size: M
 
@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'MicroE and CSE Undergrad at SJTU.'
+    org_name: Shanghai Jiao Tong University
+    description: MicroE and CSE Undergrad at SJTU
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
